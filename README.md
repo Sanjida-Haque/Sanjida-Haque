@@ -1,3 +1,6 @@
+
+<img src="https://user-images.githubusercontent.com/110475482/189588944-0b2ffb62-507a-4115-a54c-e6077d4d6b2f.gif" width="100%">
+
 <h1 align="center"> 👋 Hi , I'm Sanjida Haque Saria</h1>
 <h2 align="center">A passionate frontend developer from Bangladesh</h2>
 <h3  align="left" > 👋 Hi, I'm Sanjida Haque Saria from Bangladesh, and I do content Design and Development. I really enjoy learning languages and framework like React . I also enjoy wireframing and design in general.</h3>
