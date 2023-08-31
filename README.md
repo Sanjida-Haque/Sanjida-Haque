@@ -31,9 +31,7 @@
 
 
 
-- 🔭 I’m currently working on Web Development and Front-end App Development.
-
-- 💬 Ask me about **MERN ,JS**
+- 🔭 I’m currently working on Full Stack Development.
 
 - 📫 How to reach me **sariasanjidahaque@gmail.com**
 
